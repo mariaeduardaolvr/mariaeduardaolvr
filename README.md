@@ -19,7 +19,7 @@ My Skills
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]
 
 
-Contato: 
+Contato
 
 Email: [mariaeduarda12olvr@gmail.com](mailto:mariaeduarda12olvr@gmail.com)
 
