@@ -18,3 +18,8 @@ My Skills
 [![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)]
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]
 
+Contato:  
+Instagram: [@marieduardaolvr](https://www.instagram.com/marieduardaolvr)  
+LinkedIn: [Maria Eduarda](https://www.linkedin.com/in/mariaeduardaolv12)  
+Email: [mariaeduarda12olvr@gmail.com](mailto:mariaeduarda12olvr@gmail.com)
+
