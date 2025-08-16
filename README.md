@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**mariaeduardaolvr/mariaeduardaolvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sejam bem-vindos(as) ao meu GitHub
 
-Here are some ideas to get you started:
+Sou Maria Eduarda, apaixonada por tecnologia e saúde, formada em Gestão em Saúde Pública e estudante de Análise e Desenvolvimento de Sistemas. 
+Transformo dados e ideias em soluções práticas, eficientes e inovadoras, unindo desenvolvimento, análise e aplicações interativas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Principais Tecnologias
+
+Python | JavaScript | Node.js | HTML5 | CSS3
+
+My Skills
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)]
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)]
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]
+[![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)]
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]
+
